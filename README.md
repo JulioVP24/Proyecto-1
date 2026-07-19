@@ -1,2 +1,2 @@
 # Proyecto-1
-Aquí hay cosas buenas!
+Proyecto de aprendizaje
